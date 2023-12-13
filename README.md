@@ -7,7 +7,7 @@ I am a Software Engineer with experience in building mobile applications using A
 - 🔭 I’m currently learning to build apps with responsive design and adaptive in Flutter 
 - 👯 I’m looking to collaborate on any open source flutter project
 - 🖥 I used to write answers in StackOverflow
-- 💬 Ask me about Android, Flutter, CI,CD & Automation
+- 💬 Ask me about Android, Flutter, CI/CD & Automation
 - 📫 How to reach me: [Twitter](https://twitter.com/imbuntoo), [Linkedin](https://www.linkedin.com/in/burhankhanzada/)
 - 🤔 I’m looking for help with nothing.
 
