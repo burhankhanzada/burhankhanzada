@@ -11,6 +11,8 @@ I am a Software Engineer with experience in building mobile applications using A
 - 📫 How to reach me: [Twitter](https://twitter.com/imbuntoo), [Linkedin](https://www.linkedin.com/in/burhankhanzada/)
 - 🤔 I’m looking for help with nothing.
 
+[![](https://visitcount.itsvg.in/api?id=burhankhanzada&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stackoverflow.com/users/6947156/burhan-khanzada"><img src="https://stackoverflow.com/users/flair/6947156.png?theme=dark" width="208" height="58" alt="profile for Burhan Khanzada at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Burhan Khanzada at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ![burhankhanzada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=burhankhanzada&theme=algolia&show_icons=true&hide_border=true&layout=compact)
